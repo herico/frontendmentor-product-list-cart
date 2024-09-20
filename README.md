@@ -1,1 +1,1 @@
-# Frontendmentor product list with cart challenges
+# Frontendmentor product list with cart challenge
